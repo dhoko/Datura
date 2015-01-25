@@ -2,6 +2,8 @@
 require('../../constants.php');
 require(LIB_PATH . '/lib_rss.php');  // Includes class autoloader
 
+class RestApi {}
+
 Minz_Configuration::register('system',
                              DATA_PATH . '/config.php',
                              DATA_PATH . '/config.default.php');
