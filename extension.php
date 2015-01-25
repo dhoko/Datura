@@ -1,6 +1,6 @@
 <?php
 
-class FreshRSS_REST_IExtension extends Minz_Extension {
+class FreshRSS_RESTExtension extends Minz_Extension {
     public function init() {
 
     }
