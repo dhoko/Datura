@@ -1,0 +1,8 @@
+{
+	"name": "FreshRSS Rest API",
+	"author": "Dhoko",
+	"description": "Provides an API for FreshRSS",
+	"version": "0.0.1",
+	"entrypoint": "FreshRSS_REST",
+	"type": "system"
+}
