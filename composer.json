@@ -1,0 +1,11 @@
+{
+    "name": "FreshRssAPI",
+    "type": "library",
+    "description": "Provide a REST API for FreshRSS",
+    "keywords": [],
+    "license": "MIT",
+    "require": {
+        "torophp/torophp": "dev-master",
+        "guzzlehttp/guzzle": "4.*"
+    }
+}
